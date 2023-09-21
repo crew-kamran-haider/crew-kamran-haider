@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crew-kamran-haider
+- 👋 Hi, I’m Kamran Haider
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently working with Laravel.
 - 💞️ I’m open to discussion on any issue.
